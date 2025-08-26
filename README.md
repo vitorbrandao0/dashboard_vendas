@@ -10,6 +10,6 @@ O desenvolvimento do código foi realizado integralmente no Visual Studio Code e
 
 Estrutura do projeto:
   - Dashboard.py: página principal do projeto;
-  - Dados_brutos.py: página secundária;
+  - pages/Dados_brutos.py: página secundária.
   
 A página secundária contém os dados brutos com filtragens interativas e opção de download.
